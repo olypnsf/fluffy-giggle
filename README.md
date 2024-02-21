@@ -1,3 +1,4 @@
+<h1>Fluffy Giggle - Financial Analysis tool</h1>
 A tool that helps us understand and manage our money.
 
 The Financial Analysis Tool helps people see how well they are managing their money by comparing how much they planned to spend each month with how much they actually spend. It looks at different things to figure out if someone is doing well with their money or if they need to make some changes.
