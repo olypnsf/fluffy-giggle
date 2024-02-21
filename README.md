@@ -25,4 +25,4 @@ The Financial Analysis Tool is just for learning and not for making real money d
 
 The Financial Analysis Tool is like a tool that helps you understand money stuff, but it's not like a person who tells you what to do with your money. It's important to talk to someone who knows a lot about money before you make any big decisions.
 
-The Financial Analysis Tool uses information from the past and what you tell it to give you advice on how to manage your money. But it can't promise that you'll get certain results, and what actually happens might be different. It's your job to make smart choices with your money and think about what the tool tells you.
+The Financial Analysis Tool uses CSV File to gather information and what you tell it to give you advice on how to manage your money. But it can't promise that you'll get certain results, and what actually happens might be different. It's your job to make smart choices with your money and think about what the tool tells you.
