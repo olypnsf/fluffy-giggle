@@ -11,7 +11,7 @@ The tool helps us figure out how much money we usually spend each month. It does
 
 The amount of money a person plans to spend each month.
 
-Children can tell the website how much money they want to spend each month by typing it into a box on the screen.
+People can tell the website how much money they want to spend each month by typing it into a box on the screen.
 
 Comparison Rules are like rules that help us compare things. It's like when we have two things and we want to see which one is bigger, smaller, or the same. These rules help us figure that out. We can also use the symbol "<" which means "less than" to show that one thing is smaller than the other. Using the same example, we can say that 3 is less than 5 by using the "<" symbol. These symbols help us compare things and understand their relationships. When we compare things, we can use different symbols to show the relationship between them. For example, if we have two numbers and we want to see which one is bigger, we can use the symbol ">" which means "greater than". So if we have a number 5 and a number 3, we can say that 5 is greater than 3 by using the ">" symbol. Lastly, we can use the symbol "=" which means "equal to" to show that two things are the same. So if we have two numbers that are both 4, we can say that 4 is equal to 4 by using the "=" symbol.
 
